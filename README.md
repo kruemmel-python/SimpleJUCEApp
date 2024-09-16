@@ -42,23 +42,12 @@ Setze die **VCPKG_ROOT**-Umgebungsvariable, um sicherzustellen, dass CMake die r
 set VCPKG_ROOT=C:\Pfad\zu\vcpkg
 ```
 
-### 4. CMake-Konfiguration
+### 4. IN VS leeres c++ Projekt erstellen
 
-Erstelle einen neuen Ordner `build` im Projektverzeichnis:
+![image](https://github.com/user-attachments/assets/88413b6b-ac0e-42f7-b814-5e6e373a6f8e)
 
-```bash
-mkdir build
-cd build
-cmake -DCMAKE_TOOLCHAIN_FILE=%VCPKG_ROOT%/scripts/buildsystems/vcpkg.cmake ..
-```
 
-### 5. Visual Studio-Projekt öffnen
 
-Sobald die CMake-Konfiguration abgeschlossen ist, kannst du das generierte **Visual Studio**-Projekt öffnen:
-
-```bash
-cmake --open .
-```
 
 ### 6. Subsystem auf "Windowed" umstellen
 
