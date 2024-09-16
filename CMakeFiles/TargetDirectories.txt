@@ -1,0 +1,3 @@
+C:/Users/ralfk/Documents/c++ Lerninhalte/Juce/CMakeFiles/SimpleJUCEApp.dir
+C:/Users/ralfk/Documents/c++ Lerninhalte/Juce/CMakeFiles/ALL_BUILD.dir
+C:/Users/ralfk/Documents/c++ Lerninhalte/Juce/CMakeFiles/ZERO_CHECK.dir
