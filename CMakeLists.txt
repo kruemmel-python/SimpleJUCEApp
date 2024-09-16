@@ -9,7 +9,7 @@ if(DEFINED ENV{VCPKG_ROOT} AND NOT DEFINED CMAKE_TOOLCHAIN_FILE)
 endif()
 
 
-include_directories("C:/Users/ralfk/vcpkg/installed/x64-windows/include")
+
 
 
 # JUCE verwenden
